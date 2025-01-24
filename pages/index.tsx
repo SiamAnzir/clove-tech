@@ -14,7 +14,7 @@ export default function Homepage() {
         <title>{EnvVars.SITE_NAME}</title>
         <meta
           name="description"
-          content="Tempor nostrud velit fugiat nostrud duis incididunt Lorem deserunt est tempor aute dolor ad elit."
+          content="Clove Tech Solutions offers innovative tech solutions, including eCommerce platforms, POS systems, SaaS applications, and custom software development, to elevate your business and drive growth."
         />
       </Head>
       <HomepageWrapper>
