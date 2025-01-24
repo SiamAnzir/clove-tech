@@ -76,7 +76,7 @@ export default function Navbar({ items }: NavbarProps) {
           <LogoWrapper>
             {/* <Logo /> */}
             <Image src={logo} alt="logo" width="65" height="65" />
-            <span>Clove Tech</span>
+            <span>Clove Tech Solutions</span>
           </LogoWrapper>
         </NextLink>
         <NavItemList>
