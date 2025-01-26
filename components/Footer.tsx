@@ -82,7 +82,7 @@ export default function Footer() {
               </a>
             </NextLink>
           </ShareBar>
-          <Copyright>&copy; 2025 Clove Tech Solutions. All rights reserved.</Copyright>
+          <Copyright>&copy; 2023 Clove Tech Solutions. All rights reserved.</Copyright>
         </BottomBar>
       </Container>
     </FooterWrapper>
